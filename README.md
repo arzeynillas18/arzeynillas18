@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">A Full-Stack Software Engineer with 2+ years of hands-on industry experience building real systems for real businesses. I specialize in developing efficient, scalable, and user-friendly solutions across the full stack — from pixel-perfect frontends to robust backends, API design, and database management. My work spans enterprise platforms, business tools, and client-facing applications, backed by a strong foundation in problem-solving and a drive to write code that actually gets used.<br><br>Let's build something great together! 🚀</h4>
+<h4 align="center">A Full-Stack Software Engineer with 3+ years of hands-on industry experience building real systems for real businesses. I specialize in developing efficient, scalable, and user-friendly solutions across the full stack — from pixel-perfect frontends to robust backends, API design, and database management. My work spans enterprise platforms, business tools, and client-facing applications, backed by a strong foundation in problem-solving and a drive to write code that actually gets used.<br><br>Let's build something great together! 🚀</h4>
 
 ###
 
@@ -54,6 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
