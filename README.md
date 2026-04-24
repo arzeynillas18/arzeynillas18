@@ -2,14 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nepomuceno+Arzey!" alt="Typing SVG" />
 </h1>
 
+###
+
+<h4 align="center">A Full-Stack Software Engineer with 2+ years of hands-on industry experience building real systems for real businesses. I specialize in developing efficient, scalable, and user-friendly solutions across the full stack — from pixel-perfect frontends to robust backends, API design, and database management. My work spans enterprise platforms, business tools, and client-facing applications, backed by a strong foundation in problem-solving and a drive to write code that actually gets used.<br><br>Let's build something great together! 🚀</h4>
 
 ###
 
-<h4 align="center">an IT aspiring professional with experience in web development, software applications, and technical support. I specialize in creating efficient, user-friendly solutions, with a strong focus on problem-solving and adaptability. My projects range from web applications to game development, demonstrating my passion for technology and continuous learning.<br><br>I am proficient in various programming languages, frameworks, and tools, and I thrive in fast-paced environments where innovation and efficiency are key. I am always eager to collaborate on new projects and explore emerging technologies.<br><br>Let's build something great together! 🚀</h4>
-
-###
-
-<h4 align="left">🚀 Focusing on FullStack (Frontend + Backend + QA). <br>🌟 Trying to become an expert in Fullstack development. <br>🛠️ I love exploring new tech stacks and building cool stuff.<br>📚 Reading tech documentation whenever possible.<br>🎯 2025 Goals: Learn more about AI and Security.<br>🤖 Fun fact: AI can write code, but Security makes sure it doesn’t turn against us! 🛡️</h4>
+<h4 align="left">🚀 Focusing on FullStack (Frontend + Backend + QA). <br>🌟 Building real systems with real-world impact. <br>🛠️ I love exploring new tech stacks and building cool stuff.<br>📚 Reading tech documentation whenever possible.<br>🎯 2025 Goals: Learn more about AI and Security.<br>🤖 Fun fact: AI can write code, but Security makes sure it doesn't turn against us! 🛡️</h4>
 
 ###
 
@@ -28,13 +27,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
@@ -46,18 +51,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-    <img width="12" />
-
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
 
 ###
@@ -80,10 +76,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-
 
 ###
 
