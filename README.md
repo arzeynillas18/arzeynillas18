@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🚀 Focusing on FullStack (Frontend + Backend + QA). <br>🌟 Building real systems with real-world impact. <br>🛠️ I love exploring new tech stacks and building cool stuff.<br>📚 Reading tech documentation whenever possible.<br>🎯 2025 Goals: Learn more about AI and Security.<br>🤖 Fun fact: AI can write code, but Security makes sure it doesn't turn against us! 🛡️</h4>
+<h4 align="left">🚀 Focusing on FullStack (Frontend + Backend + QA). <br>🌟 Building real systems with real-world impact. <br>🛠️ I love exploring new tech stacks and building cool stuff.<br>📚 Reading tech documentation whenever possible.<br>🎯 2026 Goals: Learn more about AI and Security.<br>🤖 Fun fact: AI can write code, but Security makes sure it doesn't turn against us! 🛡️</h4>
 
 ###
 
